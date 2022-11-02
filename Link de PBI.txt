@@ -1,6 +1,2 @@
-LINK para ingresar desde la aplicacion desde PBI:
-
-https://app.powerbi.com/links/cQBZU-M9Y9?ctid=0e0cb060-09ad-49f5-a005-68b9b49aa1f6&pbi_source=linkShare
-
-
-https://app.powerbi.com/reportEmbed?reportId=37c78881-b08e-4890-ac64-8fb68a1fc136&autoAuth=true&ctid=0e0cb060-09ad-49f5-a005-68b9b49aa1f6
+LINK para ver el dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMGNmZjBlNDUtMDExNi00N2FjLTlmNjgtOTAwZDU5YWExYmEwIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9

@@ -1,6 +1,7 @@
 
-# **Proyecto individual Nro 3**
+# <center> ****ANÁLISIS DE LAS CRYPTOMONEDAS**** </center>
 
+El tablero lo puede visualizar en el siguiente link: [visualizacion_crypto.com ](https://app.powerbi.com/view?r=eyJrIjoiMGNmZjBlNDUtMDExNi00N2FjLTlmNjgtOTAwZDU5YWExYmEwIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9) 
 
 ## **Conexión con la API FTX**
  La conexión se hizo a dos endpoints de la api
